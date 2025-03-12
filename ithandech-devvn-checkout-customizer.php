@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ithandech devvn checkout customizer
  * Requires Plugins: woocommerce, woo-checkout-field-editor-pro
- * Plugin URI: https://github.com/Ping89/ithan-devvn-checkout-customizer
+ * Plugin URI: https://github.com/Ping89/ithandech-devvn-checkout-customizer
  * Description: Custom Checkout Form for Vietnam addresses (of DEVVN-ithan plugin).
  * Tags: checkout, fields, woocommerce, custom, payment
  * Version: 3.0
