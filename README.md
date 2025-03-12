@@ -1,5 +1,3 @@
-# ithandech-devvn-checkout-customizer
-Allows you to customize address fields for Vietnamese addresses, including provinces, districts, and wards for woocommerce checkout form
 === ithandech devvn checkout customizer ===
 Contributors: laptrinhvienso0
 Donate link: 
@@ -53,13 +51,13 @@ To use this plugin effectively, you must include the following three fields:
 == Screenshots ==
 
 1. Start screen: `/assets/overview.png`
-<img src="./ithandech-devvn-checkout-customizer/assets/overview.png" alt="Ảnh tổng quan" width="600">
+<img src="./assets/overview.png" alt="Ảnh tổng quan" width="600">
 2. Label Tooltips: `/assets/labelview.png`
-<img src="./ithandech-devvn-checkout-customizer/assets/labelview.png" alt="Ảnh hiển thị nhãn" width="600">
+<img src="./assets/labelview.png" alt="Ảnh hiển thị nhãn" width="600">
 3. Select VN Address: `/assets/select_vn_address_view.png`
-<img src="./ithandech-devvn-checkout-customizer/assets/select_vn_address_view.png" alt="Ảnh hiển chọn địa chỉ" width="600">
+<img src="./assets/select_vn_address_view.png" alt="Ảnh hiển chọn địa chỉ" width="600">
 4. Error Message view: `/assets/error_messages.png`
-<img src="./ithandech-devvn-checkout-customizer/assets/error_messages.png" alt="Ảnh hiển thông báo lỗi" width="600">
+<img src="./assets/error_messages.png" alt="Ảnh hiển thông báo lỗi" width="600">
 
 == Changelog ==
 
